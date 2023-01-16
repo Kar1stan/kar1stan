@@ -3,7 +3,7 @@
 ## I'm beginner QA Engineer 
 
 ### Languages and Tools
-![Webdriver.io](https://img.shields.io/badge/-Webdriver.io-090909?style=for-the-badge&logo=webdriver&logoColor=47C5FB)
+![Webdriver.io](https://img.shields.io/badge/-Webdriver.io-090909?style=for-the-badge&logo=webdriver.io&logoColor=47C5FB)
 ![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=cypress&logoColor=47C5FB)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-090909?style=for-the-badge&logo=cucumber&logoColor=47C5FB)
 ![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=playwright&logoColor=47C5FB)
