@@ -1,16 +1,15 @@
-### Hi there 👋
+### Karastan Vlad
 
-<!--
-**Kar1stan/kar1stan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm beginner QA Engineer 
 
-Here are some ideas to get you started:
+### Languages and Tools
+![Webdriver.io](https://img.shields.io/badge/-Webdriver.io-090909?style=for-the-badge&logo=webdriver&logoColor=47C5FB)
+![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=cypress&logoColor=47C5FB)
+![Cucumber](https://img.shields.io/badge/-Cucumber-090909?style=for-the-badge&logo=cucumber&logoColor=47C5FB)
+![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=playwright&logoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kar1stan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
