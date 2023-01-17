@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=Kar1stan&color=green)
 # Hi there, I'm Karastan Vlad - a QA AUTOMATION specialist!
 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m open for a new projects
+
 ### Languages and Tools
 ![WebdriverIO](https://img.shields.io/badge/-webdriverio-090909?style=for-the-badge&logo=Webdriver&logoColor=fb7d47)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
