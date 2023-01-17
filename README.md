@@ -1,6 +1,5 @@
-# Karastan Vlad
-
-## I'm beginner QA Engineer 
+![](https://komarev.com/ghpvc/?username=Kar1stan&color=green)
+# Hi there, I'm Karastan Vlad - a QA AUTOMATION specialist!
 
 ### Languages and Tools
 ![WebdriverIO](https://img.shields.io/badge/-webdriverio-090909?style=for-the-badge&logo=Webdriver&logoColor=fb7d47)
@@ -13,5 +12,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Follow me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](www.linkedin.com/in/karastan-vlad/#gh-light-mode-only)
 
+</details> -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Karastan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kar1stan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
