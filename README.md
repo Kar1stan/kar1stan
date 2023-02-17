@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Kar1stan&color=green)
-# Hi there, I'm Karastan Vlad - a QA AUTOMATION specialist!
+# Hi there, I'm Karastan Vlad - a WEB DEVELOPER specialist!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open for a new projects
