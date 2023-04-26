@@ -11,7 +11,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-2CA5E0?style=for-the-badge&logo=vue&logoColor=brown)
+![Vue](https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192)
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
